@@ -68,10 +68,3 @@ MimeType=text/plain;inode/directory;
 Actions=new-empty-window;
 Keywords=vscode;
 `
-
-`
-[Desktop Action new-empty-window]
-Name=New Empty Window
-Exec=/usr/share/@@NAME@@/@@NAME@@ --new-window %F
-Icon=@@ICON@@
-`
